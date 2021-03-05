@@ -1,0 +1,334 @@
+@media only screen and (max-width: 980px) and (min-width: 320px) {
+    section{
+		overflow:hidden;
+	}
+    a.logo img {
+    max-width: 36%;
+}
+
+header ul {display: none;}
+
+.banner {
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 35px;
+    line-height: 30px;
+}
+
+p {
+    font-size: 12px;
+}
+.banner-content p {font-size: 13px;color: gray;font-weight: 400;}
+.banner::before {
+    display: none;
+}
+
+.banner .container::before {
+    display: none;
+}
+
+.banner::after {
+    height: 550px;
+    width: 351px;
+}
+
+.reviews {
+    display: inline-block;
+    padding: 22px 0;
+    margin-left: 51px;
+}
+
+a.btn.black {
+    display: inline-block;
+    margin-left: 68px;
+}
+
+.ticket {margin: 61px 0 0 0;}
+
+.ticket form::after {
+    display: none;
+}
+
+.before {
+    margin: 0;
+}
+
+.ticket::before {}
+
+.ticket form h4 {
+    font-size: 21px;
+}
+
+.ticket form input {padding: 9px 64px 9px 10px;}
+
+.ticket {
+}
+
+.ticket form textarea {
+    width: 251px;
+}
+
+.before::after {
+    display: none;
+}
+
+.publish h2 {
+    padding: 0;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+ul.gh-services li {
+    padding: 7px 0;
+}
+
+ul.gh-services {
+    margin-left: 138px;
+    margin-top: 51px;
+}
+
+ul.gh-services li span {
+    font-size: 13px;
+}
+
+ul.gh-services img {max-width: 30%;}
+
+h3 {
+    font-size: 22px;
+    padding-top: 50px;
+}
+.publish h2 span br {
+    display: none;
+}
+
+.publish::after {
+    display: none;
+}
+
+.publish .container-fluid::after {
+    display: none;
+}
+
+p br {
+    display: none;
+}
+
+section.premium {
+    padding: 0 0;
+}
+
+section.publish {
+    padding-bottom: 10px;
+}
+
+.premium h2 {
+    text-align: left !important;
+    font-size: 21px;
+    line-height: 26px;
+    padding: 20px 0;
+}
+
+.premium img, .seller .pr-box1 img {
+    max-width: 10%;
+    top: -16px;
+    left: 66px;
+}
+
+.premium .container .row span, .seller .pr-box1 span {
+    font-size: 37px;
+}
+
+.premium .pr-box2::after {
+    display: none;
+}
+
+.premium .pr-row::before {
+    display: none;
+}
+
+.premium .row {
+    padding: 10px 0;
+}
+
+.btns::before {
+    display: none;
+}
+
+.btns::after {
+    display: none;
+}
+
+section.script {padding: 80px 0;}
+
+section.key {
+    padding: 0;
+}
+
+.key .key-side {
+    margin: 0;
+    padding: 10px 20px;
+}
+
+.key p {
+    padding: 0;
+}
+
+.key-center {
+    background-size: 71%;
+    padding: 114px 0;
+}
+
+.key-num1 {
+    position: absolute;
+    top: 53px;
+    left: -15px;
+}
+
+.key-num2 {
+    position: absolute;
+    top: 53px;
+    right: -91px;
+}
+
+
+.logo-bar img {max-width: 100%;}
+
+section.seller {
+    padding: 10px 0;
+}
+
+.seller h2 {
+    font-size: 22px;
+    padding-bottom: 40px;
+    line-height: 24px;
+}
+
+.seller .container::before {
+    display: none;
+}
+
+.seller::before {
+    display: none;
+}
+.publish h3::before {
+    top: 64px;
+    width: 128px;
+    height: 7px;
+}
+
+.script .row::before {
+    left: 37px;
+    width: 298px;
+    top: -60px;
+}
+
+.script .row::after {
+    width: 298px;
+    left: 37px;
+    bottom: -60px;
+}
+
+.script h2 {
+    font-size: 23px;
+}
+
+.script h2::before {
+    width: 184px;
+    left: 0;
+    height: 34px;
+}
+
+.script .btns {
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+
+.script .container::before {
+    display: none;
+}
+
+.script .container::after {
+    display: none;
+}
+.key .row {
+    margin: auto;
+}
+
+.key-center {
+    background-position: 90%;
+    max-width: 80%;
+}
+
+.key-num1 h3 span {
+    font-size: 26px;
+}
+
+.key-num1 h3 {
+    font-size: 12px;
+    line-height: 4px;
+    padding-top: 10px;
+}
+
+.key-num2 h3 {
+    font-size: 12px;
+    padding-top: 10px;
+    line-height: 4px;
+}
+
+.key-num2 h3 span {
+    font-size: 26px;
+}
+.seller .row {
+    margin: auto;
+}
+.seller::after {
+    display: none;
+}
+
+
+img.sellerImg {
+    top: 0;
+    right: 0;
+    max-width: 100%;
+}
+
+.seller .s-img::before {
+    left: -20px;
+    height: 271px;
+}
+
+.feed-box {
+    margin: auto;
+}
+
+.owl-theme .owl-nav.disabled+.owl-dots {
+    bottom: -20px;
+    left: 118px;
+}
+
+.slider {
+    padding-bottom: 50px;
+}
+.feed-box {
+    margin: 0 21px;
+}
+
+footer p {
+    font-size: 12px;
+    color: #4c7ac5;
+}
+footer {
+    padding-bottom: 90px;
+}
+.seller .s-img {
+    padding: 144px 0;
+}
+
+
+}
